@@ -1,20 +1,10 @@
 """
 Jocelyn Lim
-This is the final project for ICS3UE
 This program implements a finite state machine to run a simple battle game
 run by lists, if statements, and user input.
 The finite state machine will run the enemy's movements.
 The game is turn based, and the player and enemy wil take turns attacking, 
 dodging attacks, and seeking aid
-
-Extras: 
--fixing the bug in program not allowing player to win. Instead of moving 
-back each time, player or enemy is only able to retreat the first time seek aid 
-called
--super good formatting :)
--asks user to if they would like to see rules, prints out rules
--allows user to continue playing the game until they quit
-
 
 """
 import random
